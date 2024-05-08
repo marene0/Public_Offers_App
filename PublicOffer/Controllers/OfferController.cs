@@ -49,7 +49,7 @@ namespace PublicOffer.Controllers
         }
 
         [HttpGet("all information about offer")]
-        public async Task<ActionResult<GetOfferByTypeDTO>> GetAllInformationAsync(string url)
+        public async Task<ActionResult<GetAllInformationOfferDTO>> GetAllInformationAsync(string url)
         {
             try
             {

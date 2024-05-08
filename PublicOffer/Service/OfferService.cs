@@ -89,7 +89,7 @@ namespace PublicOffer.Service
             }
         }
 
-        public async Task<ActionResult<List<GetOfferByTypeDTO>>> GetAllInformationAsync(string url)
+        public async Task<ActionResult<List<GetAllInformationOfferDTO>>> GetAllInformationAsync(string url)
         {
             try
             {
@@ -101,7 +101,7 @@ namespace PublicOffer.Service
 
                 var salaryNode = document.DocumentNode.SelectSingleNode("//span[@class='salary']");
 
-                var getOfferByTypeDTO = new GetOfferByTypeDTO
+                var getOfferByTypeDTO = new GetAllInformationOfferDTO
                 {
                     Title = titleNode.InnerText,
                     Description = descriptionNode.InnerText,
@@ -110,17 +110,17 @@ namespace PublicOffer.Service
 
                 if (titleNode != null && descriptionNode != null && salaryNode != null)
                 {
-                    var result = new List<GetOfferByTypeDTO> { getOfferByTypeDTO };
+                    var result = new List<GetAllInformationOfferDTO> { getOfferByTypeDTO };
                     return result;
                 }
                 else
                 {
-                    return new List<GetOfferByTypeDTO>();
+                    return new List<GetAllInformationOfferDTO>();
                 }
             }
             catch (Exception ex)
             {
-                return new List<GetOfferByTypeDTO>();
+                return new List<GetAllInformationOfferDTO>();
             }
         }
 

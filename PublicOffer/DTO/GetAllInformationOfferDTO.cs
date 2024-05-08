@@ -2,7 +2,7 @@
 
 namespace PublicOffer.DTO
 {
-    public class GetOfferByTypeDTO
+    public class GetAllInformationOfferDTO
     {
         public string Title { get; set; }
         public string Description { get; set; }
