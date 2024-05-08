@@ -33,7 +33,7 @@ namespace PublicOffer.Controllers
         //[HttpGet("name")]
         //public async Task<string> GetNameAsync(string url)
         //{
-        //    return await _jobService.GetNameAsync(url);
+        //    return await _offerService.GetNameAsync(url);
         //}
 
         [HttpGet("description")]
@@ -42,10 +42,26 @@ namespace PublicOffer.Controllers
             return await _offerService.GetDescriptionAsync(url);
         }
 
-        //[HttpGet("price")]
-        //public async Task<string> GetPriceAsync(string url)
-        //{
-        //    return await _jobService.GetPriceAsync(url);
-        //}
+        [HttpGet("price")]
+        public async Task<string> GetPriceAsync(string url)
+        {
+            return await _offerService.GetPriceAsync(url);
+        }
+
+        [HttpGet("all information about offer")]
+        public async Task<ActionResult<GetOfferByTypeDTO>> GetAllInformationAsync(string url)
+        {
+            try
+            {
+                var getOfferByTypeDTO = await _offerService.GetAllInformationAsync(url);
+                return Ok(getOfferByTypeDTO);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500); 
+            }
+        }
+
+
     }
 }

@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|c:\\users\\marene\\source\\repos\\publicoffer\\publicoffer\\controllers\\offercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\controllers\\offercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|c:\\users\\marene\\source\\repos\\publicoffer\\publicoffer\\interfaces\\iofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\interfaces\\iofferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|c:\\users\\marene\\source\\repos\\publicoffer\\publicoffer\\service\\offerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\service\\offerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|c:\\users\\marene\\source\\repos\\publicoffer\\publicoffer\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|c:\\users\\marene\\source\\repos\\publicoffer\\publicoffer\\dto\\getofferbytypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\dto\\getofferbytypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|C:\\Users\\Marene\\source\\repos\\PublicOffer\\publicoffer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|C:\\Users\\Marene\\source\\repos\\PublicOffer\\publicoffer\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|c:\\users\\marene\\source\\repos\\publicoffer\\publicoffer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|C:\\Users\\Marene\\source\\repos\\PublicOffer\\publicoffer\\model\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\model\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|c:\\users\\marene\\source\\repos\\publicoffer\\publicoffer\\publicoffer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\publicoffer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|C:\\Users\\Marene\\source\\repos\\PublicOffer\\publicoffer\\migrations\\20240430083836_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\migrations\\20240430083836_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|C:\\Users\\Marene\\source\\repos\\PublicOffer\\publicoffer\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|C:\\Users\\Marene\\source\\repos\\PublicOffer\\publicoffer\\model\\useroffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\model\\useroffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|C:\\Users\\Marene\\source\\repos\\PublicOffer\\publicoffer\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|C:\\Users\\Marene\\source\\repos\\PublicOffer\\publicoffer\\model\\locationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\model\\locationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|C:\\Users\\Marene\\source\\repos\\PublicOffer\\publicoffer\\model\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\model\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|C:\\Users\\Marene\\source\\repos\\PublicOffer\\publicoffer\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B8B249-8F51-4188-9656-4C991DFE700A}|PublicOffer\\PublicOffer.csproj|solutionrelative:publicoffer\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 92,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PublicOffer\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PublicOffer\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:38:56.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OfferService.cs",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Service\\OfferService.cs",
+              "RelativeDocumentMoniker": "PublicOffer\\Service\\OfferService.cs",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Service\\OfferService.cs*",
+              "RelativeToolTip": "PublicOffer\\Service\\OfferService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:21:41.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOfferService.cs",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Interfaces\\IOfferService.cs",
+              "RelativeDocumentMoniker": "PublicOffer\\Interfaces\\IOfferService.cs",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Interfaces\\IOfferService.cs*",
+              "RelativeToolTip": "PublicOffer\\Interfaces\\IOfferService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:21:41.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OfferController.cs",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Controllers\\OfferController.cs",
+              "RelativeDocumentMoniker": "PublicOffer\\Controllers\\OfferController.cs",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Controllers\\OfferController.cs*",
+              "RelativeToolTip": "PublicOffer\\Controllers\\OfferController.cs*",
+              "ViewState": "AQIAACoAAAAAAAAAAAAjwDwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:21:40.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Program.cs",
+              "RelativeDocumentMoniker": "PublicOffer\\Program.cs",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Program.cs",
+              "RelativeToolTip": "PublicOffer\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:57:00.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\appsettings.json",
+              "RelativeDocumentMoniker": "PublicOffer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\appsettings.json",
+              "RelativeToolTip": "PublicOffer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T07:54:30.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Offer.cs",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Model\\Offer.cs",
+              "RelativeDocumentMoniker": "PublicOffer\\Model\\Offer.cs",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Model\\Offer.cs",
+              "RelativeToolTip": "PublicOffer\\Model\\Offer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:29:21.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetOfferByTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\DTO\\GetOfferByTypeDTO.cs",
+              "RelativeDocumentMoniker": "PublicOffer\\DTO\\GetOfferByTypeDTO.cs",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\DTO\\GetOfferByTypeDTO.cs",
+              "RelativeToolTip": "PublicOffer\\DTO\\GetOfferByTypeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:21:41.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PublicOffer\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\appsettings.Development.json",
+              "RelativeToolTip": "PublicOffer\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T07:50:39.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240430083836_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Migrations\\20240430083836_Init.cs",
+              "RelativeDocumentMoniker": "PublicOffer\\Migrations\\20240430083836_Init.cs",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Migrations\\20240430083836_Init.cs",
+              "RelativeToolTip": "PublicOffer\\Migrations\\20240430083836_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:38:36.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PublicOffer",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\PublicOffer.csproj",
+              "RelativeDocumentMoniker": "PublicOffer\\PublicOffer.csproj",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\PublicOffer.csproj",
+              "RelativeToolTip": "PublicOffer\\PublicOffer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T19:21:41.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "PublicOffer\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Data\\DataContext.cs",
+              "RelativeToolTip": "PublicOffer\\Data\\DataContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwBQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:42:01.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LocationType.cs",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Model\\LocationType.cs",
+              "RelativeDocumentMoniker": "PublicOffer\\Model\\LocationType.cs",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Model\\LocationType.cs",
+              "RelativeToolTip": "PublicOffer\\Model\\LocationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:37:22.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryType.cs",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Model\\CategoryType.cs",
+              "RelativeDocumentMoniker": "PublicOffer\\Model\\CategoryType.cs",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Model\\CategoryType.cs",
+              "RelativeToolTip": "PublicOffer\\Model\\CategoryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:33:22.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserOffer.cs",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Model\\UserOffer.cs",
+              "RelativeDocumentMoniker": "PublicOffer\\Model\\UserOffer.cs",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Model\\UserOffer.cs",
+              "RelativeToolTip": "PublicOffer\\Model\\UserOffer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:31:54.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Model\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PublicOffer\\Model\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Model\\BaseEntity.cs",
+              "RelativeToolTip": "PublicOffer\\Model\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:28:36.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Model\\User.cs",
+              "RelativeDocumentMoniker": "PublicOffer\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Marene\\source\\repos\\PublicOffer\\PublicOffer\\Model\\User.cs",
+              "RelativeToolTip": "PublicOffer\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:26:20.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 35,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

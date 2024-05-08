@@ -1,8 +1,60 @@
 [
   {
     "ContainingType": "PublicOffer.Controllers.OfferController",
+    "Method": "GetAllInformationAsync",
+    "RelativePath": "api/Offer/all information about offer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PublicOffer.DTO.GetOfferByTypeDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PublicOffer.Controllers.OfferController",
     "Method": "GetDescriptionAsync",
     "RelativePath": "api/Offer/description",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PublicOffer.Controllers.OfferController",
+    "Method": "GetPriceAsync",
+    "RelativePath": "api/Offer/price",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

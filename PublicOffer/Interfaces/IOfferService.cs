@@ -1,6 +1,7 @@
 ﻿using Azure;
 using PublicOffer.Model;
 using PublicOffer.DTO;
+using Microsoft.AspNetCore.Mvc;
 
 namespace PublicOffer.Interfaces
 {
@@ -8,5 +9,7 @@ namespace PublicOffer.Interfaces
     {
         Task<string> GetTitleAsync (string url);
         Task<string> GetDescriptionAsync(string url);
+        Task<string> GetPriceAsync(string url);
+        Task<ActionResult<List<GetOfferByTypeDTO>>> GetAllInformationAsync(string url);
     }
 }

@@ -143,3 +143,4 @@ C:\Users\Marene\source\repos\PublicOffer\PublicOffer\bin\Debug\net8.0\tr\Microso
 C:\Users\Marene\source\repos\PublicOffer\PublicOffer\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Marene\source\repos\PublicOffer\PublicOffer\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Marene\source\repos\PublicOffer\PublicOffer\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Marene\source\repos\PublicOffer\PublicOffer\obj\Debug\net8.0\PublicOffer.sourcelink.json

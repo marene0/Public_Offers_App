@@ -4,6 +4,7 @@ using PublicOffer.Interfaces;
 using HtmlAgilityPack;
 using PublicOffer.Controllers;
 using System.Threading.Tasks.Dataflow;
+using Microsoft.AspNetCore.Mvc;
 
 namespace PublicOffer.Service
 {
@@ -64,6 +65,68 @@ namespace PublicOffer.Service
                 return null;
             }
         }
+
+        public async Task<string> GetPriceAsync(string url)
+        {
+            try
+            {
+                var document = await _web.LoadFromWebAsync(url);
+
+                var titleNode = document.DocumentNode.SelectSingleNode("//span[@class='salary']");
+
+                if (titleNode != null)
+                {
+                    return titleNode.InnerText.Trim();
+                }
+                else
+                {
+                    return string.Empty;
+                }
+            }
+            catch (Exception ex)
+            {
+                return null;
+            }
+        }
+
+        public async Task<ActionResult<List<GetOfferByTypeDTO>>> GetAllInformationAsync(string url)
+        {
+            try
+            {
+                var document = await _web.LoadFromWebAsync(url);
+
+                var titleNode = document.DocumentNode.SelectSingleNode("//title");
+
+                var descriptionNode = document.DocumentNode.SelectSingleNode("//*[@id=\"container\"]/div[2]/div/div[2]/div[1]/div/div[4]/div[2]/p");
+
+                var salaryNode = document.DocumentNode.SelectSingleNode("//span[@class='salary']");
+
+                var getOfferByTypeDTO = new GetOfferByTypeDTO
+                {
+                    Title = titleNode.InnerText,
+                    Description = descriptionNode.InnerText,
+                    Price = salaryNode.InnerText,
+                };
+
+                if (titleNode != null && descriptionNode != null && salaryNode != null)
+                {
+                    var result = new List<GetOfferByTypeDTO> { getOfferByTypeDTO };
+                    return result;
+                }
+                else
+                {
+                    return new List<GetOfferByTypeDTO>();
+                }
+            }
+            catch (Exception ex)
+            {
+                return new List<GetOfferByTypeDTO>();
+            }
+        }
+
+
+
+
     }
 
 }
