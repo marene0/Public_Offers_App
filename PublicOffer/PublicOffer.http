@@ -1,0 +1,6 @@
+@PublicOffer_HostAddress = http://localhost:5058
+
+GET {{PublicOffer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
